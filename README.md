@@ -6,5 +6,5 @@
 ----
 |name|link|
 |---|---|
-|PR|https://github.com/Mujahedyousef/CAPS-Socket.io-libraries/pull/1|
-|Actions|https://github.com/Mujahedyousef/CAPS-Socket.io-libraries/actions|
+|PR|[PR](https://github.com/Mujahedyousef/CAPS-Socket.io-libraries/pull/1)|
+|Actions|[Actions](https://github.com/Mujahedyousef/CAPS-Socket.io-libraries/actions)|
