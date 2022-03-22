@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "caps-socket.io-libraries",
+  "description": "A real-time service that allows for vendors, such as flower shops or restaurants, to alert a system of a package needing to be delivered, for drivers to instantly see what’s in their pickup queue, and then to alert the vendors as to the state of the deliveries (in transit, and then delivered).",
+  "version": "1.0.0",
+  "main": "hub.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "jest --coverage --verbose",
+    "dev": "nodemon hub.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mujahedyousef/CAPS-Socket.io-libraries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mujahedyousef/CAPS-Socket.io-libraries/issues"
+  },
+  "homepage": "https://github.com/Mujahedyousef/CAPS-Socket.io-libraries#readme"
+}
